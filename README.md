@@ -1,6 +1,6 @@
 # crack_the_covid
 
-A new Flutter project.
+This project will be helpful in fighting against the covid crisis prevailing presently in our country.
 
 ## Getting Started
 
